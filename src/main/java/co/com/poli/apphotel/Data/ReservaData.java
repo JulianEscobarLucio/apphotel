@@ -10,7 +10,7 @@ public class ReservaData {
 	    static{
 	    	listaReservas = new ArrayList<Reserva>(){
 	           { 	                
-	            add(new Reserva( "101", 1D, 50000D));
+	            
 	           }
 	       };
 	    }
